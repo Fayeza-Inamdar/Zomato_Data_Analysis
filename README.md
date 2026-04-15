@@ -8,9 +8,9 @@ This project focuses on performing end-to-end data analysis on Zomato restaurant
 ------------------------------------------------------------------
 🔍 Key Highlights:
 
-Performed data cleaning and preprocessing (handling missing values, type conversions, and feature engineering)
-Conducted Exploratory Data Analysis (EDA) to identify patterns in ratings, pricing, and customer preferences
-Analyzed factors such as online ordering, table booking, cost for two, and restaurant types
+Performed data cleaning and preprocessing (handling missing values, type conversions, and feature engineering).
+Conducted Exploratory Data Analysis (EDA) to identify patterns in ratings, pricing, and customer preferences.
+Analyzed factors such as online ordering, table booking, cost for two, and restaurant types.
 Built visualizations using Python (Matplotlib/Seaborn) to present trends and insights effectively
 Derived insights on popular cuisines, customer spending behavior, and rating distribution
 
