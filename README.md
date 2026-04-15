@@ -2,6 +2,9 @@
 
 This project focuses on performing end-to-end data analysis on Zomato restaurant data to uncover meaningful insights about customer behavior, restaurant performance, and food industry trends. The goal is to transform raw data into actionable insights that can support data-driven decision-making.
 
+![image alt](https://github.com/Fayeza-Inamdar/Zomato_Data_Analysis/blob/main/Images/Picture%205.png)
+
+
 ------------------------------------------------------------------
 🔍 Key Highlights:
 
